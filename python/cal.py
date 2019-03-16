@@ -1,4 +1,4 @@
-a=10
+a=9
 b=11
 if a<b:
     print(b)
